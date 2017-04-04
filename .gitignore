@@ -15,8 +15,10 @@ hs_err_pid*
 *.db
 *.iml
 .gradle
+.idea/
 */.idea
 */.idea/workspace.xml
 */.idea/libraries
 */target
+target/
 .DS_Store
